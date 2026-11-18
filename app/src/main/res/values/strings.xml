@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">آزادنت</string>
+    <string name="app_tagline">تونل هوشمند بدون فیلتر برای تلگرام و اینستاگرام</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">اتصال</string>
+    <string name="nav_config">تنظیمات عبور</string>
+    <string name="nav_diagnostics">پایش شبکه</string>
+
+    <!-- Status -->
+    <string name="status_connected">متصل و ایمن</string>
+    <string name="status_connecting">در حال برقراری تونل…</string>
+    <string name="status_disconnected">غیرفعال</string>
+    <string name="status_error">خطا در اتصال</string>
+
+    <string name="action_connect">فعال‌سازی آزادنت</string>
+    <string name="action_disconnect">قطع اتصال</string>
+    <string name="action_connecting">لطفاً صبر کنید…</string>
+
+    <!-- Apps -->
+    <string name="telegram_title">تلگرام</string>
+    <string name="instagram_title">اینستاگرام</string>
+    <string name="app_installed">نصب‌شده</string>
+    <string name="app_not_installed">نصب‌نشده</string>
+    <string name="open_app">باز کردن</string>
+    <string name="apply_telegram_proxy">اعمال پروکسی در تلگرام</string>
+
+    <!-- Notifications -->
+    <string name="vpn_notif_channel_name">وضعیت تونل آزادنت</string>
+    <string name="vpn_notif_channel_desc">اعلان دائمی هنگام فعال بودن تونل DNS و پروکسی محلی</string>
+    <string name="vpn_notif_title">آزادنت فعال است</string>
+    <string name="vpn_notif_disconnect">قطع اتصال</string>
+</resources>

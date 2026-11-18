@@ -1,0 +1,6 @@
+{
+  "name": "آزادنت",
+  "description": "تونل امن DNS رمزنگاری‌شده و ضد فیلتر برای دسترسی پایدار به تلگرام و اینستاگرام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
